@@ -1,0 +1,27 @@
+_repo: The-Early-Christians-in-Rome_67095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spence-Jones, Henry Donald Maurice
+    gutenberg_agent_id: '54113'
+    url: http://www.gutenberg.org/2009/agents/54113
+description: ''
+gutenberg_issued: '2022-01-03'
+identifiers:
+  gutenberg: '67095'
+language: en
+pgterms:marc904: https://archive.org/details/theearlychristia00spenuoft
+pgterms:marc905: 20181118110247spencejone
+pgterms:marc906: '1911'
+pgterms:marc907: UK
+production_note: Karin Spence, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: UK :Methuen & co.,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Early Christians in Rome
+url: http://www.gutenberg.org/ebooks/67095
