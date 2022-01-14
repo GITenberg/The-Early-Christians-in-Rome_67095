@@ -1,11 +1,16 @@
 _repo: The-Early-Christians-in-Rome_67095
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67095-h/images/cover.jpg
 creator:
   author:
     agent_name: Spence-Jones, Henry Donald Maurice
     gutenberg_agent_id: '54113'
     url: http://www.gutenberg.org/2009/agents/54113
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67095#The-Early-Christians-in-Rome
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67095'
